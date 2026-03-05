@@ -1,29 +1,39 @@
 # Hey, I'm Omer 👋
 
-Software engineer in the making. First Class in Electronic & Computer Engineering, currently at Mastercard working in real-time payments — and deliberately building my way into a full-time engineering role.
+Backend-focused software engineer with a First Class degree in Electronic & Computer Engineering. Currently working inside Mastercard's real-time payments infrastructure while deliberately building my path into full-time engineering.
 
-I come at software from an unusual angle: two years embedded inside fintech infrastructure, thinking about how systems behave at scale, before I write a single line. I care about building things that actually matter to real people.
+I come at software from an unusual angle: two years embedded inside fintech infrastructure, thinking about how large systems behave at scale before writing a single line of code. That experience shaped how I approach engineering — understanding the system first, then building software that fits it.
+
+I like understanding systems deeply — from infrastructure to application code — and building software that behaves reliably in the real world.
 
 ---
 
-## 🔧 What I'm working on
+## 🔧 What I'm building
 
-**Key & Certificate Management System** — Spring Boot backend service for managing cryptographic keys and certificates. Layered architecture, JPA, RESTful APIs, Docker, unit tested. The one I can walk through line by line.
+**Key & Certificate Management System**
+A backend service in Java and Spring Boot to manage cryptographic keys and digital certificates. Designed using a layered architecture with JPA-modelled lifecycle workflows, RESTful APIs, Docker containerisation, and full unit test coverage. This is the project I can walk through line by line.
 
-> Actively expanding the stack — currently levelling up in JavaScript and TypeScript with a frontend project incoming.
+> Currently expanding the stack — levelling up in JavaScript and TypeScript with a frontend project coming next.
 
 ---
 
 ## 🧠 Background
 
-- 🏦 Mastercard — Real-Time Payments & IPS Transaction Processing. Cross-functional squads, engineers, architects, the works
+- 🏦 **Mastercard — Real-Time Payments Infrastructure**
+  Working in cross-functional squads alongside engineers, architects, and product teams supporting instant payment systems and transaction processing
 - 🎓 BEng Electronic & Computer Engineering — First Class, University of Nottingham
-- 🔌 Built things across the stack: Java backends, C++ systems, embedded hardware (Arduino, ESP32, OpenCV), VR applications
+- 🔌 Built across the stack: Java backends, C++ systems, embedded hardware (Arduino, ESP32, OpenCV), VR applications
 - 🤝 Former General Secretary of PIESOC — community for engineers of colour at Nottingham
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech
+
+**Backend:** Java · Spring Boot · REST APIs  
+**Systems:** C++  
+**Frontend (learning):** JavaScript · TypeScript  
+**Infrastructure:** Docker · Linux · Git  
+**Data:** PostgreSQL
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -39,8 +49,12 @@ I come at software from an unusual angle: two years embedded inside fintech infr
 
 ## 📍 Where I'm headed
 
-Pivoting into software engineering full time. Interested in backend, payments, and fintech — but drawn to teams building things for people who are often overlooked by technology.
+Moving into software engineering full-time with a focus on backend systems, payments, and infrastructure.
 
-Open to graduate and junior SE roles in London. If that sounds like you, let's talk.
+I'm especially drawn to teams building technology for people who are often overlooked by traditional software — whether that's frontline workers, financial systems, or real-world operational tools.
+
+Open to graduate and junior SE roles in London.
+
+---
 
 📬 [mohammedomer582@gmail.com](mailto:mohammedomer582@gmail.com) · [LinkedIn](https://linkedin.com/in/mohammedomer-582)
