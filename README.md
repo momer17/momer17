@@ -2,9 +2,9 @@
 
 Backend-focused software engineer with a First Class degree in Electronic & Computer Engineering. Currently working inside Mastercard's real-time payments infrastructure while deliberately building my path into full-time engineering.
 
-I come at software from an unusual angle: two years embedded inside fintech infrastructure, thinking about how large systems behave at scale before writing a single line of code. That experience shaped how I approach engineering — understanding the system first, then building software that fits it.
+I come at software from an unusual angle with two years working inside fintech infrastructure, understanding how business requirement shapre technical systems and arhcitecture. That experience shaped how I approach engineering — understanding the system first, then building software that fits it.
 
-I like understanding systems deeply — from infrastructure to application code — and building software that behaves reliably in the real world.
+I'm always working on new projects and actively trying to level up as an engineer both as a hobby and a field I want to work in
 
 ---
 
